@@ -1,0 +1,9 @@
+server:
+  tomcat:
+    uri-encoding: UTF-8
+
+my:
+  hello:
+    conf:
+      prefix: 你好
+      suffix: 哈哈哈！
